@@ -1,4 +1,4 @@
-# EbsipdfDownloader
+# Ebsi .pdf Downloader
 
 [프로그램을 실행]
 1. 구글 드라이버 다운로드
